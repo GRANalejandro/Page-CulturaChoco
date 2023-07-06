@@ -305,7 +305,7 @@
     }
 }
 
-@media(min-width: 1200px){
+@media(min-width: 2000px){
     #header {
         height: 109px;
     }
@@ -414,9 +414,9 @@
     
 }
 
-@media(min-width: 1900px){
+@media(min-width: 2500px){
     .content-div{
-        width: 1600px;
+        width: 2100px;
         margin: 0px auto;
     }
 }
